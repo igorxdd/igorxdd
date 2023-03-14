@@ -7,3 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorxdd&show_icons=true&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorxdd&hide_progress=true&theme=midnight-purple&show_icons=true)](https://github.com/igorxdd/github-readme-stats)
+
+![snake gif](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
