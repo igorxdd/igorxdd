@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/igorxisde" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/igorxisde">
 
-<b href="https://www.discord.com/triAd#0002" alt="Discord" target="_blank">
+<a href="https://www.discord.com/triAd#0002" alt="Discord" target="_blank">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 
 
