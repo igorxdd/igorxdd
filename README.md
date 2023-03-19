@@ -24,7 +24,5 @@
 <a href="https://www.linkedin.com/in/igor-santos-427b47269" alt="Linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-##
-![snake gif](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
