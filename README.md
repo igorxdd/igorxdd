@@ -2,7 +2,7 @@
 
 - 🔭 Cursando S.I na Unifacisa em Campina Grande - PB
 - 🌱 Estudando python.
-- 📫 Contate-me pelo email - igordantas177@gmai.com
+- 📫 Contate-me pelo email - igordantas177@gmail.com
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorxdd&show_icons=true&show_icons=true&theme=midnight-purple)
