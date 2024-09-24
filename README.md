@@ -1,4 +1,4 @@
-## Olá! Sou Igor e tenho 18 anos
+## Olá! Sou Igor e tenho 20 anos
 
 - 🔭 Cursando S.I na Unifacisa em Campina Grande - PB
 - 🌱 Estudando python.
